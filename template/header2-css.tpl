@@ -1,4 +1,3 @@
-	<!-- Définition des styles {{{2 -->
 	<style type="text/css">
 		body {
 			position: absolute;
@@ -43,5 +42,4 @@
 		a:visited {
 			text-decoration: none;
 		}
-	</style><!-- }}}2 -->
-
+	</style>
